@@ -1,4 +1,4 @@
-an# Question 1: ERD Diagram & Balance Sheet Decomposition
+# Question 1: ERD Diagram & Balance Sheet Decomposition
 
 ## Summary of the ERD Diagram / Balance Sheet Decomposition
 
